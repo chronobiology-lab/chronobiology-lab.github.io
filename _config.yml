@@ -1,21 +1,21 @@
 # Site settings
-title: Decision Lab @ UCSF (Chiong lab)
-name: Decision Lab at UCSF (Chiong lab)
-email: decisionlab@ucsf.edu
+title: Chronobiology Lab @ IZTECH
+name: Chronobiology Lab at IZTECH
+email: altugdidikoglu@iyte.edu.tr
 description: > # this means to ignore newlines until "baseurl:"
-  Neuroethics + Decision Neuroscience. Research group headed by Winston Chiong, MD PhD in the 
-  University of California, San Francisco Weill Institute for Neurosciences, Memory and Aging Center.
+  Light Sleep Cognition Health. Research group headed by Assistant Professor Altug Didikoglu in the 
+  Izmir Institute of Technology, Urla, Izmir.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://decisionlab.ucsf.edu
+url: https://chronobiology-lab.github.io
 last_updated: # leave blank if you don't want to display last updated
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username: chronobiology-lab
 
 # -----------------------------------------------------------------------------
 # News
 # -----------------------------------------------------------------------------
-blog_name: Decision Lab @ UCSF
-blog_description: neuroethics + decision neuroscience
+blog_name: Chronobiology Lab @ IZTECH
+blog_description: Light Sleep Cognition Health
 
 # Pagination
 paginate: 4
