@@ -1,4 +1,4 @@
-# Decision Lab website
+# Chronobiology Lab website
 
 A quick way for everyone to learn how to use GitHub and Markdown. (Site design 
 based on [al-folio](https://github.com/alshedivat/al-folio).)
