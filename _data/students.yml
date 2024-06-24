@@ -1,47 +1,37 @@
 
-- name: Abraham Dada
-  image: Team_abraham-dada.jpg
+
+
+- name: Matin Huseynzade
+  image: team_matin-huseynzade.jpg
   altimage: 
-  position: Medical Student
-  email: Abrahan.Dada (at) ucsf.edu
-  website: 
+  position: Computer Engineering Student
+  email: matinhuseynzade (at) std.iyte.edu.tr
+  website: https://chillmatin.github.io
   scholar:
   twitter:
-  description: I am a medical student at the University of Califonria, San Francisco. After working at Dreem Health, a 
-               neurotech company expanding access to sleep care, I was eager to join the Decision Lab and understand public
-               reception to neuro innovation. My contributions to our Neuroethics Survey Project seek to outline how race,
-               ethnicty, and rurality influence beliefs about therapeutic implanated neural devices. Previously, I've explored 
-               social cognition, dementia, and I hope to pursue further research in neural interfaces at UCSF.
+  description: 
+                Over the course of 7 years, I have developed expertise in diverse areas of computer science, including web development, cybersecurity, heterogeneous parallel computation systems, machine learning, and open-source software. Furthermore, I have been actively involved in volunteer work, such as translating for [Khan Academy Azerbaijani](https://az.khanacademy.org/), participating in university communities, and serving as chairperson in [the IZTECH IEEE Computer Society](https://ieee.iyte.edu.tr/komiteler/computer-society/) for a school year. Currently, I hold positions as both a board member and a project manager at the [Azerbaijani Neuroscience Society](https://neuroscience.az/).
 
-
-               I recieved my B.A. in Neuroscience with a minor in Social Anthropology from Harvard Univeristy. Determined to 
-               bridge the slow, yet insightful practices of research with the rapid, socially impactful capital of investing, 
-               I interned at BrainMind, a community of neuroscientists, investors, philathropists, and entrepreneurs looking to 
-               bring socially-impactful neuro innovatios to market, during college. While at BrainMind, I devoted my time to 
-               developing its flagship, Neuroethics Advisory Commitee. Convening policymakers, academics, entrepreneurs, and investors
-               we sought to challenge this multidisplincary group to rethink how we sustainably integrate ethics into neuro innovation.
-               
-               Outside of neurotech, ethics, and medicine, I enjoy working out, and playing guitar and basketball.
-               
   pubmed_name:
 
 
 
-- name: Chenyu Wang
-  image: team_Chenyu-Wang.jpeg
-  altimage: 
-  position: Graduate Student
-  email: chenyu.wang2 (at) ucsf.edu
-  website: 
-  scholar:
-  twitter:
-  description: I am a graduate student at the University of California, San Francisco in Health Data Science. I received 
-               my B.S. in Statistics from the University of British Columbia. I am interested in using task-based functional 
-               MRI, online population-based methods, and computational behavioral modeling to investigate the neural bases of 
-               decision-making in the aging brain, focusing on how brain systems involved in financial and medical decisions 
-               are influenced by health and disease. I would be honored to learn from the accomplished team of researchers 
-               and contribute to our lab's success. Outside of research, I enjoy doing sports and watching YouTube.
+
+# - name: Chenyu Wang
+#   image: team_Chenyu-Wang.jpeg
+#   altimage: 
+#   position: Graduate Student
+#   email: chenyu.wang2 (at) ucsf.edu
+#   website: 
+#   scholar:
+#   twitter:
+#   description: I am a graduate student at the University of California, San Francisco in Health Data Science. I received 
+#                my B.S. in Statistics from the University of British Columbia. I am interested in using task-based functional 
+#                MRI, online population-based methods, and computational behavioral modeling to investigate the neural bases of 
+#                decision-making in the aging brain, focusing on how brain systems involved in financial and medical decisions 
+#                are influenced by health and disease. I would be honored to learn from the accomplished team of researchers 
+#                and contribute to our lab's success. Outside of research, I enjoy doing sports and watching YouTube.
                
-  pubmed_name:
+#   pubmed_name:
 
 

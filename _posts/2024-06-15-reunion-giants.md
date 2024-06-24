@@ -1,17 +1,10 @@
 ---
-title: Decision Lab mini-reunion at the ballpark
-author: Winston Chiong
+title: Chronobiology Lab Picnic Event
+author: Matin Huseynzade
 layout: post
 group: news
-image: news_2024_reunion-giants.jpg
+image: news_2024_first-picnic.jpeg
 
 ---
 
-Today we went out for another game together at Oracle Park, and we were able to 
-celebrate the return to the Bay Area of two Decision Lab alums, 
-[Clayton](/team/index.html#Clayton-Young) & [Madhu](/team/index.html#Madhu-Manivannan). 
-A few other Decision Lab alums came to join us for a mini-lab reunion: 
-[Ali](/team/index.html#Ali-Zahir), [Cailin](/team/index.html#Cailin-Lechner), 
-and [Celeste](/team/index.html#Celeste-Fong)! It was great to see everyone and 
-get updates on the great things that people have been up to since leaving 
-the lab!
+Our Chronobiology Lab team recently had our first picnic together to build better team spirit. It was a great chance to connect outside the lab and strengthen our bonds. Even though some members might leave soon, we are hopeful that these activities will make our team stronger and more united.

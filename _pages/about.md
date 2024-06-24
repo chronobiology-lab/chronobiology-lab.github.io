@@ -6,26 +6,27 @@ description: light time sleep cognition health
 
 profile: 
   align: right
-  image: about_weill_pic.jpg
+  image: mbg-picture-stripe_v1.jpg
   address: > 
-    <p>Weill Neurosciences Building</p>
+    <p>Molecular Biology Department Building</p>
 
 news: false
 social: false
 ---
-The Decision Lab is led by [Winston Chiong, MD PhD]({{ '/team/index.html#Winston-Chiong' | prepend: site.baseurl | prepend: site.url }}), and is part of the [Memory and Aging Center](http://memory.ucsf.edu){:target="\_blank"} in the [UCSF Weill Institute for Neurosciences](http://weill.ucsf.edu){:target="\_blank"}. Our interdisciplinary research is informed by clinical neurology, cognitive neuroscience, the social sciences, philosophy and law, with two main themes:
+Welcome to the website for the research group led by Asst. Prof. Dr. Altug Didikoglu. We focus on three main domains: developmental chronobiology, sleep epidemiology, and light and visual neuroscience. Our research aims to understand the intricate relationships between sleep, light exposure, and cognition in both humans and animals.
 
-1. **Decision Neuroscience in Aging and Disorders of Aging**
+### Developmental Chronobiology
+In this domain, we investigate how sleep develops and the various prenatal and postnatal factors that influence this process. Factors such as light exposure, maternal behavior, and seasonal variations are explored to uncover their roles in regulating sleep patterns.
 
-   We study the neural bases of decision-making in the aging brain in both health and disease, using techniques such as task-based functional MRI, online population-based methods, and computational behavioral modeling. We hope to understand brain changes underlying vulnerability to financial fraud and other mistakes, in order to inform future strategies to prevent these risks.
+### Sleep Epidemiology
+Our group utilizes statistical modeling to explore the associations between sleep characteristics and aging, cognition, neurodegeneration, and mental health. We delve into biological, environmental, and social factors that impact biological rhythms in humans, leading to the development of interventions aimed at improving sleep in individuals with mental health disorders.
 
-2. **Ethical, Policy and Health Equity Implications of Alterations to Brain Function**
-
-   We also use conceptual and empirical/ethnographic methods to investigate the broader effects of brain diseases and of interventions (pharmacological and technological) that influence brain function. As the brain is the physical basis for our experiences, personalities and choices, we are particularly interested in how changes to the brain affect patients’/users’ senses of themselves and in whether new possibilities afforded by novel interventions are made available among diverse communities.
+### Light and Visual Neuroscience
+Our focus includes real-world studies utilizing wearable light exposure monitors and mobile phone apps for longitudinal cognitive data collection. We develop portable light exposure monitors. We investigate individual differences in light sensitivities using pupillometry and psychophysics visual tasks. Our recent endeavors also extend to establishing new standards for measuring light for animals, considering their ocular anatomy and photoreceptor sensitivities.
 
 ---
 
-## partners
+<!-- ## partners
 
 Our work is funded by grants R01AG058817, R01MH114860, R01AG022983, 
 U01NS098971, and R01AG056715 from the [National Institutes of Health](http://www.nih.gov){:target="\_blank"}. In addition to our [research collaborators]({{ '/team/index.html#collaborators' | prepend: site.baseurl | prepend: site.url }}), we are affiliated with:
@@ -41,16 +42,15 @@ U01NS098971, and R01AG056715 from the [National Institutes of Health](http://www
 
 <a rel="me" href="https://neuromatch.social/@winstonchiong"> - </a>
 
----
+--- -->
 
 ## contact
-Winston Chiong, MD PhD  
-Associate Professor in Residence  
-UCSF Memory and Aging Center  
-675 Nelson Rising Lane, Suite 190F  
-San Francisco CA 94158  
+Asst. Prof. Dr. Altug Didikoglu  
+Chronobiology Laboratory  
+IZTECH  
+Izmir, Türkiye  
 
-<i class="fa fa-envelope"></i> *decisionlab (at) ucsf.edu*
+<i class="fa fa-envelope"></i> *altugdidikoglu (at) iyte.edu.tr*
 
 ---
 
