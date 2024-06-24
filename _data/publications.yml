@@ -2,10 +2,10 @@
   title: "Recommendations for measuring and standardizing light for laboratory mammals to improve welfare and reproducibility in animal research."
   details: "PLOS Biology. 2024."
   year: 2024
-  image: pubs_2024_prodromal-pd.jpg
-  imagealt: photo by Ron Bodoh on Wikimedia Commons
-  pmid: 38759135
-  pmcid: PMC10700017
+  image: 
+  imagealt: 
+  pmid: 
+  pmcid: 
   openaccess: 
   doi: 10.1371/journal.pbio.3002535
   file: 
@@ -27,16 +27,16 @@
   pmid: 
   pmcid: 
   openaccess: 
-  doi: 10.3233/JAD-231021
-  file: "Ngo - Real world financial mismanagement in Alzheimer's disease, frontotemporal dementia, and primary progressive aphasia.pdf"
-  filetype: "pdf - author manuscript version (peer-reviewed & edited)"
-  github:
-  biorxiv:
+  doi: 10.1109/JIOT.2024.3355330
+  file: 
+  filetype: 
+  github: 
+  biorxiv: 
   psyarxiv: 
   contentshare: 
-  preregistered: https://archive.org/details/osf-registrations-vupj7-v1
+  preregistered: 
   opendata: 
-  openmaterials: https://osf.io/97vwd
+  openmaterials: 
 
 - authors: "Faulkner S., Didikoglu A., et al."
   title: "Light-Dark and Activity Rhythm Therapy (L-DART) to improve sleep in people with schizophrenia spectrum disorders: a single group mixed methods study of feasibility, acceptability and adherence."
