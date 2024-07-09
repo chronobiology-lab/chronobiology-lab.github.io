@@ -1,21 +1,13 @@
-
-
-
-- name: Matin Huseynzade
-  image: team_matin-huseynzade.jpg
-  altimage: 
-  position: Computer Engineering Student
-  email: matinhuseynzade (at) std.iyte.edu.tr
-  website: https://chillmatin.github.io
-  scholar:
-  twitter:
-  description: 
-                Over the course of 7 years, I have developed expertise in diverse areas of computer science, including web development, cybersecurity, heterogeneous parallel computation systems, machine learning, and open-source software. Furthermore, I have been actively involved in volunteer work, such as translating for [Khan Academy Azerbaijani](https://az.khanacademy.org/), participating in university communities, and serving as chairperson in [the IZTECH IEEE Computer Society](https://ieee.iyte.edu.tr/komiteler/computer-society/) for a school year. Currently, I hold positions as both a board member and a project manager at the [Azerbaijani Neuroscience Society](https://neuroscience.az/).
-
-  pubmed_name:
-
-
-
+# - name: Kubilay Can
+#   image: 
+#   altimage: 
+#   position: Master Student
+#   email: 
+#   website: 
+#   scholar:
+#   twitter:
+#   description:      
+#   pubmed_name:
 
 # - name: Chenyu Wang
 #   image: team_Chenyu-Wang.jpeg

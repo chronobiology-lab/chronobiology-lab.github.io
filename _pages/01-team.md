@@ -8,6 +8,7 @@ description:
 {% for person in site.data.members %}
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<h2 id="pi">Principle Investigator</h2>
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <img style="float: right; width: 42%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
     <div>
@@ -36,7 +37,7 @@ description:
 {% endfor %}
 
 {% if site.data.students %}
-  <h2 id="students">students</h2>
+  <h2 id="students">Postgraduate Students</h2>
   {% for person in site.data.students %}
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <img style="float: right; width: 42%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
@@ -66,9 +67,9 @@ description:
   {% endfor %}
 {% endif %}
 
-{% if site.data.affiliates %}
-  <h2 id="affiliates">affiliate members</h2>
-  {% for person in site.data.affiliates %}
+{% if site.data.undergrads %}
+  <h2 id="undergrads">Undergraduate Research Students</h2>
+  {% for person in site.data.undergrads %}
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <img style="float: right; width: 42%; padding-left: 20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
     <div>
@@ -97,9 +98,9 @@ description:
   {% endfor %}
 {% endif %}
 
----
 
-## alumni
+
+## Alumni
 {% for alum in site.data.alumni %}
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
@@ -116,8 +117,7 @@ description:
 </div>
 {% endfor %}
 
----
-
+<!-- 
 ## collaborators
 
 {% for collaborator in site.data.collaborators %}
@@ -126,4 +126,4 @@ description:
   {{collaborator.position}}<br>
   {% if collaborator.website %} <i class="fa fa-globe"></i> <a href= "{{collaborator.website}}" target="_blank">{{collaborator.website}}</a>  {% endif %}
 </div>
-{% endfor %}
+{% endfor %} -->

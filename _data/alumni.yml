@@ -1,179 +1,47 @@
-- name: Ivy Huang
-  degrees: MD
-  previously: Undergraduate Research Assistant
-  now: Resident Physician, UCLA Department of Surgery
-  email: 
-  website: http://surgery.ucla.edu/casit-meet-our-team#huang
-  pubmed_name: "Huang IA"
-
-- name: William Feldman
-  degrees: MD DPhil
-  previously: Medical Student
-  now: Associate Physician, Brigham and Women's Hospital Department of Pulmonary and Critical Care
-  email: 
-  twitter: "wbfeldman"
-  website: https://connects.catalyst.harvard.edu/Profiles/display/Person/139292
-  pubmed_name: "Feldman WB"
-
-- name: Alex Beagle
-  degrees: MD
-  previously: Research Coordinator, then Medical Student
-  now: Clinical Instructor, UCSF Department of Medicine
-  email: 
-  twitter: 
-  website: https://profiles.ucsf.edu/alex.beagle
-  pubmed_name: "Beagle AJ"
- 
-- name: Mia Borzello
+- name: Esin Simge Guler
   degrees: 
-  previously: Research Coordinator
-  now: Graduate Student, UCSD Department of Cognitive Science
+  previously: Undergraduate Research Student
+  now: Heidelberg University
   email: 
-  twitter: "miaborz"
-  website: https://scholar.google.com/citations?user=WmnfOmUAAAAJ&hl=en
-  pubmed_name: "Borzello M"
+  website: https://www.linkedin.com/in/esin-simge-g%C3%BCler-15593824b/
+  pubmed_name: 
 
-- name: Ali Zahir
-  degrees: MD
-  previously: Research Coordinator
-  now: Resident Physician, UCSF Neurology
-  email: 
-  twitter: "studentdocali"
-  website: https://www.linkedin.com/in/azahir1
-  pubmed_name: "Zahir A"
-  
-- name: Julia Heunis
-  degrees: MD
-  previously: Medical Student
-  now: Resident Physician, Boston Children's Hospital Pediatrics/Anesthesia
-  email: 
-  twitter: "juliaheunis"
-  website: https://www.linkedin.com/in/julia-heunis-a509256a
-  pubmed_name: "Heunis J"
- 
-- name: Neil Vaishnav
-  degrees: MD JD LLM
-  previously: Medical Student
-  now: Assistant Professor, UCSF Department of Medicine
-  email: 
-  website: https://profiles.ucsf.edu/neil.vaishnav
-  pubmed_name: "Vaishnav NH"
-  
-- name: Madhu Manivannan
-  degrees: MD
-  previously: Research Coordinator
-  now: Intern, UCSF Benioff Children's Hospital Oakland
-  email: 
-  website: 
-  pubmed_name: "Manivannan M"
-  
-- name: Heather Romero-Kornblum
+- name: Halil Kaan Turk
   degrees: 
-  previously: Research Coordinator
-  now: Graduate Student, UCSD Rady School of Management
+  previously: Undergraduate Research Student
+  now: University of Tubingen
   email: 
-  website: https://www.linkedin.com/in/heather-romero-kornblum-810bab15a
-  pubmed_name: "Romero-Kornblum H"
-    
-- name: Cailin Lechner
+  website: https://www.linkedin.com/in/halil-kaan-t%C3%BCrk-33396a1b7/
+  pubmed_name: 
+
+- name: Onur Bayram
   degrees: 
-  previously: Research Coordinator
-  now: Law Student, UC Davis School of Law
+  previously: Undergraduate Research Student
+  now: University of Vienna
   email: 
-  website: 
-  pubmed_name: "Lechner CR"
-  
-- name: Sang Ngo
+  website: https://www.linkedin.com/in/obito/
+  pubmed_name: 
+
+- name: Aleyna Nur Erim
   degrees: 
-  previously: Research Coordinator
-  now: Medical Student, UCLA School of Medicine
+  previously: Undergraduate Research Student
+  now: University of Helsinki
   email: 
-  website: 
-  pubmed_name: "Ngo S"
+  website: https://www.linkedin.com/in/aleynanurerim/
+  pubmed_name: 
 
-- name: Emily Hardy
+- name: Furkan Mert Kervan
   degrees: 
-  previously: Research Coordinator
-  now: Medical Student, Mayo Clinic Alix School of Medicine
+  previously: Undergraduate Research Student
+  now: Izmir Institute of Technology
   email: 
-  website: 
-  pubmed_name: "Hardy E"
-  
-- name: Loren Gotingco
-  degrees: RN
-  previously: Student Intern
-  now: Registered Nurse Case Manager, Stanford Health Care
-  email: 
-  website: 
-  pubmed_name: "Gotingco L"
+  website: https://www.linkedin.com/in/furkan-mert-kervan-b0020b199/
+  pubmed_name: 
 
-- name: Heather Ma
-  degrees: MD
-  previously: Medical Student
-  now: Resident Physician, Stanford Department of Neurology
-  email: 
-  website: 
-  pubmed_name: "Ma H"
-
-- name: Carson Quinn
-  degrees: MD
-  previously: Medical Student
-  now: Resident Physician, Mass General Brigham Neurology Residency
-  email: 
-  twitter: "C_mQuinn"
-  website: 
-  pubmed_name: "Quinn CM"
-
-- name: Clayton Young
-  degrees:
-  previously: Research Coordinator
-  now: Data Engineer, UCSF Memory and Aging Center
-  email:
-  twitter:
-  website:
-  pubmed_name: "Young JC"
-
-- name: Sheila Tran
-  degrees:
-  previously: Student Intern
-  now: PA Student, Drexel University
-  email:
-  twitter:
-  website:
-  pubmed_name: "Tran ST"
-  
-- name: Bryan Chen
-  degrees:
-  previously: Student Intern
-  now: Medical Student, Yale School of Medicine
-  email:
-  twitter:
-  website:
-  pubmed_name: "Chen BB"
-  
-- name: Danielle Hart
-  degrees: MD
-  previously: Medical Student
-  now: Intern, UCSF; Resident Physician, UCSF Department of Neurology
-  email:
-  twitter:
-  website:
-  pubmed_name: "Hart D"
-  
-- name: Steven Lenio
-  degrees: MD
-  previously: Behavioral Neurology Fellow
-  now: Assistant Professor of Neurology, Boston University
-  email:
-  twitter:
-  website:
-  pubmed_name: "Lenio S"
-
-- name: Celeste Fong
-  degrees: MA
-  previously: Research Coordinator
-  now: Clinical Ethics Fellow, Sutter Health
-  email:
-  twitter:
-  website:
-  pubmed_name: "Fong KC"
+# - name: Ivy Huang
+#   degrees: MD
+#   previously: Undergraduate Research Assistant
+#   now: Resident Physician, UCLA Department of Surgery
+#   email: 
+#   website: http://surgery.ucla.edu/casit-meet-our-team#huang
+#   pubmed_name: "Huang IA"

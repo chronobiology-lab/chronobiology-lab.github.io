@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 ---
 
-<div id="gbd" class="project-container" style="margin-top: 0px">
+<!-- <div id="gbd" class="project-container" style="margin-top: 0px">
   <img src="{{ site.baseurl }}/assets/img/projects-gbd.jpg" alt="Background image for Genes, Brains and Decisions. Photo by Robbin Huang on Unsplash." style="width: 100%;">
   <div class="project-title" style="color: #052049">Genes, Brains and Decisions</div>
 </div>
@@ -43,7 +43,7 @@ Our work links these accepted clinical standards to current constructs in decisi
 
 Traditionally, research subjects undergo behavioral testing and other data collection during on-site evaluations in dedicated research laboratories. While this allows for detailed cognitive, clinical and neuroimaging characterization of each subject, the labor and time costs associated with sequential on-site subject evaluation often place severe constraints on sample size and flexibility. Some researchers have addressed these limitations by using online panels to administer behavioral tasks to large numbers of subjects at home. This approach is highly flexible and scalable, but cannot evaluate hypotheses that require neuroimaging or standardized cognitive measurements.
 
-Our research program combines the detailed subject characterization enabled by on-site evaluation with the flexibility and scaling advantages of online testing. Participants in this project (currently ~140 neurologically normal adults ages 65-95) undergo extensive in-person cognitive testing and neuroimaging through the [UCSF Healthy Aging Study](https://memory.ucsf.edu/healthy-aging-study){:target="\_blank"} and [Normal Aging and Cognitive Decline Study](https://memory.ucsf.edu/normal-aging-and-cognitive-decline){:target="\_blank"}. These investigations are linked to behavioral data collected on secure, web-enabled platform allowing these subjects to complete study tasks at home.
+Our research program combines the detailed subject characterization enabled by on-site evaluation with the flexibility and scaling advantages of online testing. Participants in this project (currently ~140 neurologically normal adults ages 65-95) undergo extensive in-person cognitive testing and neuroimaging through the [UCSF Healthy Aging Study](https://memory.ucsf.edu/healthy-aging-study){:target="\_blank"} and [Normal Aging and Cognitive Decline Study](https://memory.ucsf.edu/normal-aging-and-cognitive-decline){:target="\_blank"}. These investigations are linked to behavioral data collected on secure, web-enabled platform allowing these subjects to complete study tasks at home. -->
 
 <!---
 <div id="seminar" class="project-container">
