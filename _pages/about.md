@@ -6,9 +6,9 @@ description: light time sleep cognition health
 
 profile: 
   align: right
-  image: mbg-picture-stripe_v1.jpg
+  image: about_iyte-logo-eng.png
   address: > 
-    <p>Molecular Biology Department Building</p>
+    <p>Department of Neuroscience</p>
 
 news: false
 social: false
@@ -16,13 +16,13 @@ social: false
 Welcome to the website for the research group led by Dr Altug Didikoglu. We focus on three main domains: developmental chronobiology, sleep epidemiology, and light and visual neuroscience. Our research aims to understand the intricate relationships between sleep, light exposure, and cognition in both humans and animals.
 
 ### Developmental Chronobiology
-In this domain, we investigate how sleep develops and the various prenatal and postnatal factors that influence this process. Factors such as light exposure, maternal behavior, and seasonal variations are explored to uncover their roles in regulating sleep patterns.
+We investigate how sleep develops and the various prenatal and postnatal factors that influence this process.  Factors such as light exposure, maternal behavior, breast milk, and seasonal variations are explored to uncover their roles in regulating sleep patterns. To this end, I have shown that the birth season may developmentally program later-life biological rhythms via genetic/epigenetic mechanisms but social factors such as education mediate these effects.
 
 ### Sleep Epidemiology
-Our group utilizes statistical modeling to explore the associations between sleep characteristics and aging, cognition, neurodegeneration, and mental health. We delve into biological, environmental, and social factors that impact biological rhythms in humans, leading to the development of interventions aimed at improving sleep in individuals with mental health disorders.
+Our group is currently investigating the associations between sleep characteristics and aging, cognition, neurodegeneration, and mental health using statistical modelling in large cohorts, including the Longitudinal Manchester Cognitive Aging Cohort, which spans over 35 years, and the UK Biobank. Importantly, we have revealed that older people do not always experience poor sleep quality, leading us to develop the concept of healthy sleep aging. We are exploring biological factors (genetic, epigenetic, ageing), environmental factors (season, light), and social factors (occupation) that regulate biological rhythms in humans. These findings have led to the development of behavioural interventions aimed at improving sleep in individuals with mental health problems.
 
 ### Light and Visual Neuroscience
-Our focus includes real-world studies utilizing wearable light exposure monitors and mobile phone apps for longitudinal cognitive data collection. We develop portable light exposure monitors. We investigate individual differences in light sensitivities using pupillometry and psychophysics visual tasks. Our recent endeavors also extend to establishing new standards for measuring light for animals, considering their ocular anatomy and photoreceptor sensitivities.
+The main research focus of our group is currently the influence of light exposure on sleep and cognition in humans. We are one of the leading research groups in the field, investigating this question in real-world settings. To conduct this research, we have developed a wearable light exposure monitor that measures melanopic lux, considered the gold standard for personal light exposure measurement. Additionally, for longitudinal collection of cognitive data in everyday life, we have created a mobile phone app that includes attention and memory tasks. Furthermore, we are exploring the reasons for individual differences in light sensitivities using pupillometry and psychophysics visual tasks. Our findings indicate that daytime high light exposure and a regular pattern of exposure every day are crucial for promoting good sleep. Most recently, our group has expanded its scope to include animal lighting for laboratory, farm animals, and pets. In this project, we aim to establish a new standard for measuring light for animals, taking into consideration their ocular anatomy and photoreceptor sensitivities.
 
 ---
 
@@ -54,4 +54,4 @@ Izmir, Türkiye
 
 ---
 
-This site is open-source and available on [GitHub](https://github.com/chronobiology-lab/chronobiology-lab.github.io){:target="\_blank"}. It is built on the [Decision Lab](https://github.com/winstonchiong/decisionlabucsf.github.io){:target="\_blank"} template.
+This site is open-source and available on [GitHub](https://github.com/chronobiology-lab/chronobiology-lab.github.io){:target="\_blank"}.

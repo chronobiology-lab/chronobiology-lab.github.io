@@ -5,10 +5,12 @@ layout: page
 {% if page.profile %}
   <div style="float: right; width: 35%; padding-left: 30px;">
     {% if page.profile.image %}
+    <a href="https://en.iyte.edu.tr/" target="_blank">
       <img style="width: 100%; padding-bottom: 5px;" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo: {{ page.profile.address }}">
+    </a>
     {% endif %}
     {% if page.profile.address %}
-      <div class="address">
+      <div class="address" style="text-align: center;">
         {{ page.profile.address }}
       </div>
     {% endif %}

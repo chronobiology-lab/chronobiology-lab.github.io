@@ -25,7 +25,7 @@ years: [2024, 2023, 2022, 2021, 2020, 2019]
   {% elsif paper.file %}
     <a href="{{ paper.file | prepend: '/assets/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">{{paper.title}}</a>
   {% else %}
-    {{paper.title}}
+    {{paper.title | markdownify | remove: '<p>' | remove: '</p>'}}
   {% endif %}
   {{paper.details | markdownify}}
   {% if paper.openaccess %}<i class="ai ai-open-access ai-fw"></i> <a href="{{paper.openaccess}}" target="_blank">Open Access</a><br>{% endif %}
