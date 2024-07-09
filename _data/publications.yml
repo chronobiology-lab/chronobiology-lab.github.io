@@ -2,8 +2,8 @@
   title: "**Recommendations for measuring and standardizing light for laboratory mammals to improve welfare and reproducibility in animal research**"
   details: "PLOS Biology"
   year: 2024
-  image: 
-  imagealt: 
+  image: papers_journal.pbio.3002535.g005.PNG
+  imagealt: The importance of measuring light in appropriate species-specific metrics
   pmid: 
   pmcid: 
   openaccess: 
@@ -22,7 +22,7 @@
   title: "**A wrist worn Internet-of-Things sensor node for wearable equivalent daylight illuminance monitoring**"
   details: "IEEE Internet of Things Journal"
   year: 2023
-  image: 
+  image:
   imagealt: 
   pmid: 
   pmcid: 
@@ -282,8 +282,8 @@
   title: "**Meal Timing Trajectories and All-Cause Mortality in Older Adults**"
   details: "CONFERENCE: Current Developments in Nutrition"
   year: 2024
-  image: 
-  imagealt: 
+  image: papers_old-man-eat.webp
+  imagealt: changes in eating habits in the elderly
   pmid: 
   pmcid: 
   openaccess: 
@@ -342,12 +342,12 @@
   title: "**Overview of wearable light loggers: State-of-the-art and outlook**"
   details: "PREPRINT: TechRxiv"
   year: 2024
-  image: 
-  imagealt: 
+  image: papers_wearable-light-logger-with-light.jpg
+  imagealt: wearable light logger
   pmid: 
   pmcid: 
   openaccess: 
-  doi: 10.36227/techrxiv.171742550.06025656
+  doi: 10.36227/techrxiv.171742550.06025656/v1
   file: 
   filetype: 
   github: 
@@ -362,8 +362,8 @@
   title: "**Protocol for a prospective, multi-centric, cross-sectional cohort study to assess personal light exposure**"
   details: "PREPRINT: medRxiv"
   year: 2024
-  image: 
-  imagealt: 
+  image: papers_experimental_timeline_of_an_experiment.png
+  imagealt: Protocol for experiment to assess personal light exposure
   pmid: 
   pmcid: 
   openaccess: 
