@@ -13,7 +13,7 @@ profile:
 news: false
 social: false
 ---
-Welcome to the website for the research group led by Asst. Prof. Dr. Altug Didikoglu. We focus on three main domains: developmental chronobiology, sleep epidemiology, and light and visual neuroscience. Our research aims to understand the intricate relationships between sleep, light exposure, and cognition in both humans and animals.
+Welcome to the website for the research group led by Dr Altug Didikoglu. We focus on three main domains: developmental chronobiology, sleep epidemiology, and light and visual neuroscience. Our research aims to understand the intricate relationships between sleep, light exposure, and cognition in both humans and animals.
 
 ### Developmental Chronobiology
 In this domain, we investigate how sleep develops and the various prenatal and postnatal factors that influence this process. Factors such as light exposure, maternal behavior, and seasonal variations are explored to uncover their roles in regulating sleep patterns.
